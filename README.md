@@ -7,6 +7,7 @@
 - [init project](https://svelte.dev/blog/the-easiest-way-to-get-started)
 - [typescript](https://svelte.dev/blog/svelte-and-typescript)
 - [tutorial](https://svelte.dev/tutorial/basics)
+- [Svelte tutorials](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks#Svelte_tutorials)
 
 ## Notes
 
